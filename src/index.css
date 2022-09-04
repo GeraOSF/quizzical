@@ -1,0 +1,26 @@
+body {
+	background-color: #f5f7fb;
+	position: relative;
+}
+
+main {
+	padding-top: 50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: "Inter", sans-serif;
+}
+
+.img--blueBlob {
+	position: absolute;
+	bottom: 0;
+	left: -10px;
+	z-index: -1;
+}
+
+.img--yellowBlob {
+	position: absolute;
+	top: 0;
+	right: -80px;
+	z-index: -1;
+}
