@@ -1,0 +1,18 @@
+footer {
+	margin-top: 60px;
+	font-family: "Karla", sans-serif;
+	text-align: center;
+	font-weight: bold;
+	color: #293264;
+}
+
+.footer__links {
+	display: flex;
+	gap: 1rem;
+	justify-content: center;
+}
+
+.fa-github,
+.fa-linkedin {
+	color: #293264;
+}

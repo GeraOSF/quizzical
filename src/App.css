@@ -18,3 +18,13 @@
 .buttonSolid:active {
 	box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4);
 }
+
+.scoreText {
+	margin-top: 30px;
+	font-family: "Karla", sans-serif;
+	color: #293264;
+}
+
+.playAgain__button {
+	margin: 0;
+}
